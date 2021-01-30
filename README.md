@@ -24,8 +24,8 @@
 
 ## Technology Stack Used
 - Python (numpy + pandas + requests : For data-preprocessing )
-- Plotly Dash (For )
-- Amazon AWS __________ (For)
+- Plotly Dash (For building dashboard )
+- Amazon AWS __________ (For dashboard deployment)
 
 ## Taking the Project Forward
 -
