@@ -6,7 +6,8 @@
 
 ### Project CoViCheck uses ____ data to ___ and display ______.
 
-### Our submission focusses on solving issues related to Vaccine Distribution, such as the ones mentioned below.
+### Our submission focusses on solving issues related to Vaccine Distribution, such as the first few ones mentioned below.
+### The next step of our project includes solving the last two problems below, making use of Blockchain and smart contracts.
 ## Problems to Solve
 - Ensure the supply of vaccines to regions that require it the most.
 - Solve supply & logistics issues with regards to vaccine distribution and storage.
