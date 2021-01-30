@@ -1,6 +1,6 @@
 # Team Fireflies - CoVicheck
 
-<img src="covicheckLogo.jpeg" width="200" alt="covicheck_logo"/>
+<img src="images/covicheckLogo.jpeg" width="200" alt="covicheck_logo"/>
 
 ### This repository contains files that belong to our team's submission to the CityHack 2021 competition.
 
