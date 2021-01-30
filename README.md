@@ -34,7 +34,7 @@
 -
 -
 
-## List of Contributors:
+## List of Contributors
 - Denny Thomas Varghese
 - Daniyar Agaltsov
 - Shounak Naskar
