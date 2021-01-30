@@ -24,9 +24,9 @@
 -
 
 ## List of Contributors:
-- Denny
-- Daniyar
-- Shounak
+- Denny Thomas Varghese
+- Daniyar Agaltsov
+- Shounak Naskar
 - Nidhi
 - Shoaib Shahul Hameed
 
