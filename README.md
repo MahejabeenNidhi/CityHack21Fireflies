@@ -1,5 +1,33 @@
-# CityHack21Fireflies
+# CityHack21 - Team Fireflies
 
-Vaccine Distribution
+### This repository contains files that belong to our team's submission to the CityHack 2021 competition.
+### Our submission focusses on __________.
 
-Machine Learning 
+## Problems to Solve
+- 
+- 
+
+## Data Sources
+- 
+- 
+
+## Goals
+-
+- 
+
+## Technology Stack Used
+- 
+- 
+
+## Taking the Project Forward
+-
+-
+
+## List of Contributors:
+- Denny
+- Daniyar
+- Shounak
+- Nidhi
+- Shoaib
+
+
