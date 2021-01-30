@@ -19,20 +19,17 @@
 - [Centre for Health Protection, Hong Kong](https://www.chp.gov.hk/)
 - 
 
-## Goals
+## Goals and the Next Step
 - Present information required for efficient and effective distribution of vaccinations in a centralized Dashboard.
 - The CoVicheck Dashboard displays _______________.
 - Since the CoVicheck Dashboard uses daily data to support its distribution scheme, the vaccination is dispatched to the right people at the right time.
+- 
 
 ## Technology Stack Used
 - Python (numpy + pandas + requests : For data-preprocessing )
 - Plotly Dash (For building dashboard )
 - Amazon AWS __________ (For training using pre-processed data)
 - Amazon AWS __________ (For dashboard deployment)
-
-## The next step for CoVicheck
--
--
 
 ## List of Contributors
 - Denny Thomas Varghese
