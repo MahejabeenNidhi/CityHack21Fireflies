@@ -32,6 +32,7 @@
 - Plotly Dash (For building dashboard )
 - Amazon AWS __________ (For training using pre-processed data)
 - Amazon AWS __________ (For dashboard deployment)
+- Solidity and Etherum Blockchain (For Smart Contract development)
 
 ## List of Contributors
 - Denny Thomas Varghese
