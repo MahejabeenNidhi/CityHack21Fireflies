@@ -4,10 +4,10 @@
 
 ### This repository contains files that belong to our team's submission to the CityHack 2021 competition.
 
-### Project CoViCheck uses ____ data to ___ and display ______.
+### Our submission, Project CoVicheck uses ____ data to ___ and display ______.
 
-### Our submission focusses on solving issues related to Vaccine Distribution, such as the first few ones mentioned below.
-### The next step of our project includes solving the last two problems below, making use of Blockchain and smart contracts.
+### Project CoVicheck focusses on solving issues related to Vaccine Distribution, such as the first few ones mentioned in the next section.
+### The next step of Project CoVicheck includes solving the last two problems in the following section, making use of Blockchain and smart contracts.
 ## Problems to Solve
 - Ensure the supply of vaccines to regions that require it the most.
 - Solve supply & logistics issues with regards to vaccine distribution and storage.
@@ -21,8 +21,8 @@
 
 ## Goals
 - Present information required for efficient and effective distribution of vaccinations in a centralized Dashboard.
-- The CoViCheck Dashboard displays _______________.
-- Since the CoViCheck Dashboard uses daily data to support its distribution scheme, the vaccination is dispatched to the right people at the right time.
+- The CoVicheck Dashboard displays _______________.
+- Since the CoVicheck Dashboard uses daily data to support its distribution scheme, the vaccination is dispatched to the right people at the right time.
 
 ## Technology Stack Used
 - Python (numpy + pandas + requests : For data-preprocessing )
@@ -30,7 +30,7 @@
 - Amazon AWS __________ (For training using pre-processed data)
 - Amazon AWS __________ (For dashboard deployment)
 
-## The next step for CoViCheck
+## The next step for CoVicheck
 -
 -
 
