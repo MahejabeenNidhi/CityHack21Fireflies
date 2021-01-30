@@ -25,6 +25,12 @@
 - Since the CoVicheck Dashboard uses daily data to support its distribution scheme, the vaccination is dispatched to the right people at the right time.
 - Create and Deploy Smart Contracts for controlling the distrbution of Vaccine to make sure that vaccines are not reselled and paid at the moment patient receives it.
 - Every aspect of supply chain can be replaced by the smart contract, making the entire system more efficient. Decentralized Apps that use Smart Contracts.
+- The mobile Applications will be created with the use of blockchain and Smart Contracts. Patiens will need to sign of upon receiving the vaccine by using its ID. Vaccinators will sign off with their ID when vaccinating the Patient.
+- In total there are 4 stakeholders in the distrbution of vaccines: Manufactures => Goverment => Vaccinators => Patients.
+- The language used in developing Smart Contract is Soloidity and web3.js, which is Ethereum JavaScript API for better interaction with remote nodes. The Smart Contracts will be deployed on Main Ethereum Network. 
+
+
+
 
 
 ## Technology Stack Used
@@ -32,7 +38,6 @@
 - Plotly Dash (For building dashboard )
 - Amazon AWS __________ (For training using pre-processed data)
 - Amazon AWS __________ (For dashboard deployment)
-- Solidity and Etherum Blockchain (For Smart Contract development)
 
 ## List of Contributors
 - Denny Thomas Varghese
