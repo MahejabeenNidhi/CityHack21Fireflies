@@ -27,7 +27,7 @@
 - Every aspect of supply chain can be replaced by the smart contract, making the entire system more efficient. Decentralized Apps that use Smart Contracts.
 - The mobile Applications will be created with the use of blockchain and Smart Contracts. Patiens will need to sign of upon receiving the vaccine by using its ID. Vaccinators will sign off with their ID when vaccinating the Patient.
 - In total there are 4 stakeholders in the distrbution of vaccines: Manufactures => Goverment => Vaccinators => Patients.
-- The language used in developing Smart Contract is Soloidity and web3.js, which is Ethereum JavaScript API for better interaction with remote nodes. The Smart Contracts will be deployed on Main Ethereum Network. 
+- The language used in developing Smart Contract is Solidity and web3.js, which is Ethereum JavaScript API for better interaction with remote nodes. The Smart Contracts will be deployed on Main Ethereum Network. 
 
 
 
