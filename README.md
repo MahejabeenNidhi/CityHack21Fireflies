@@ -19,8 +19,9 @@
 - 
 
 ## Goals
--
-- 
+- Present information required for efficient and effective distribution of vaccinations in a centralized Dashboard.
+- The CoViCheck Dashboard displays _______________.
+- Since the CoViCheck Dashboard uses daily data to support its distribution scheme, the vaccination is dispatched to the right people at the right time.
 
 ## Technology Stack Used
 - Python (numpy + pandas + requests : For data-preprocessing )
@@ -28,7 +29,7 @@
 - Amazon AWS __________ (For training using pre-processed data)
 - Amazon AWS __________ (For dashboard deployment)
 
-## Taking the Project Forward
+## The next step for CoViCheck
 -
 -
 
