@@ -1,4 +1,4 @@
-# CityHack21 - Team Fireflies
+# Team Fireflies - CoVicheck
 
 <img src="covicheckLogo.jpeg" width="200" alt="covicheck_logo"/>
 
