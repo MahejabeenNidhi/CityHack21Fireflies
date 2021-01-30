@@ -23,7 +23,9 @@
 - Present information required for efficient and effective distribution of vaccinations in a centralized Dashboard.
 - The CoVicheck Dashboard displays _______________.
 - Since the CoVicheck Dashboard uses daily data to support its distribution scheme, the vaccination is dispatched to the right people at the right time.
-- 
+- Create and Deploy Smart Contracts for controlling the distrbution of Vaccine to make sure that vaccines are not reselled and paid at the moment patient receives it.
+- Every aspect of supply chain can be replaced by the smart contract, making the entire system more efficient. Decentralized Apps that use Smart Contracts.
+
 
 ## Technology Stack Used
 - Python (numpy + pandas + requests : For data-preprocessing )
