@@ -5,7 +5,7 @@
 
 ## Problems to Solve
 - Supply & logistics issues with regards to vaccine distribution and storage.
-- Disparities faced in terms of race, status, ethinicity etc 
+- Disparities faced in terms of race, status, ethinicity etc. 
 - Assisting stakeholders in managing the process.
 - Tackling potential problems encountered due to holding of sensitive data.
 
