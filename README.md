@@ -35,7 +35,7 @@
 - Denny Thomas Varghese
 - Daniyar Agaltsov
 - Shounak Naskar
-- Mahejabeen Nidhi Hossain
+- Mahejabeen Hossain Nidhi
 - Shoaib Shahul Hameed
 
 
