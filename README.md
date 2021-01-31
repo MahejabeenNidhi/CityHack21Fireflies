@@ -4,7 +4,7 @@
 
 ### This repository contains files that belong to our team's submission to the CityHack 2021 competition.
 
-### Our submission, Project CoVicheck uses ____ data to ___ and display ______.
+### Our submission, Project CoVicheck uses historical data to forecast new cases in locations and display which locations are most in need of vaccines 
 
 ### Project CoVicheck focusses on solving issues related to Vaccine Distribution, such as the first few ones mentioned in the next section.
 ### The next step of Project CoVicheck includes solving the last two problems in the following section, making use of Blockchain and smart contracts.
