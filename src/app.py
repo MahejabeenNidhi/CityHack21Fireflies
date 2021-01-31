@@ -236,7 +236,7 @@ app.layout=html.Div(style={"backgroundColor":"black"},children=[
         ]),
 
         html.Div(style={"border":"5px black solid","textAlign":"center"},children=[
-            html.P("Data Source : CHP. For detailed information, click here. For source code, click here"),
+            html.P(children=["Data Source : CHP. For detailed information, click here. For source code,",html.A(href="https://data.gov.hk/en-data/dataset/hk-dh-chpsebcddr-novel-infectious-agent",children=["click here"]) ]),
         ]),
 
 
