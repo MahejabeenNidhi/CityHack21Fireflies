@@ -1,3 +1,4 @@
+# Update: This submission is the recepient of CityHack '21 's Best Team Award. (Congrats to us!!!!!!!!!)
 # Team Fireflies - CoVicheck
 
 <img src="images/covicheckLogo.jpeg" width="200" alt="covicheck_logo"/>
