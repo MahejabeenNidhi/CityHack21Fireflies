@@ -277,5 +277,4 @@ df_details = df_details.rename(columns={'Hospitalised/Discharged/Deceased' : 'Ho
 
 
 #Forecasts
-df_f_1 = pd.read_csv("ExportForecast_2021-01-31T04-56-15Z_part2.csv")
-df_f_1 = df_f_1[df_f_1["item_id"]=="china"]
+df_f_1 = pd.read_csv("ForecastHongKongData_2021-01-31T05-55-41Z_part0.csv.csv")
