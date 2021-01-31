@@ -274,3 +274,8 @@ df_world = df_world.iloc[1:240,1:5]
 # Case details
 df_details = df.drop(columns={"Confirmed/probable","Date of onset","Name of hospital admitted"},axis=1)
 df_details = df_details.rename(columns={'Hospitalised/Discharged/Deceased' : 'Hospitalised /Discharged/ Deceased'})
+
+
+#Forecasts
+df_f_1 = pd.read_csv("ExportForecast_2021-01-31T04-56-15Z_part2.csv")
+df_f_1 = df_f_1[df_f_1["item_id"]=="china"]

@@ -29,6 +29,7 @@ confirmed_deaths_today_str = " +"+ str(int(calculation.confirmed_deaths_today))
 discharged_cases = calculation.discharged_cases
 df_world = calculation.df_world
 df_details = calculation.df_details
+df_f_1 = calculation.df_f_1
 
 #Case classification graph 
 fig_1 = px.bar(df_merged, x=df_merged.index, y=["Local link (+)","Local link (-)","Imported link (+)","Imported link (-)"],barmode="stack", title="Epidemic Curve according to four different case types",
@@ -91,11 +92,18 @@ fig_4.update_layout(font={"color":"white"},title={'xanchor': 'center','x':0.5,})
 
 #Fig 5 Mode of testing
 df_testing = calculation.df_testing
-fig_5 = px.pie(df_testing, values='Number of cases', names='Category name', title='Mode of testing',template="plotly_dark",height=300)
+fig_5 = px.pie(df_testing, values='Number of cases', names='Category name', title='Mode of testing',template="plotly_dark",height=250)
 fig_5.update_layout(margin=dict(l=30, r=10, t=30, b=20))
 fig_5.update_layout(showlegend=False)
 fig_5.update_layout(paper_bgcolor="#363431")
 fig_5.update_layout(title={'xanchor': 'center','x':0.5,})
+
+#Figure 6 Forecast
+fig_6 = px.line(df_f_1,x="date", y=["p10","p50","p90"],title='Forecasting number of cases',template="plotly_dark",height=300,labels={"value": "Cases", "variable": ""})
+fig_6.update_layout(uniformtext_minsize=8, uniformtext_mode='hide')
+fig_6.update_layout(paper_bgcolor="#363431")
+fig_6.update_layout(title={'xanchor': 'center','x':0.5,})
+fig_6.update_layout(margin=dict(l=30, r=10, t=30, b=20))
 
 #Tab styles
 tabs_styles = {
@@ -211,14 +219,14 @@ app.layout=html.Div(style={"backgroundColor":"black"},children=[
                     )
                 ]),
 
-                dcc.Tab(label="Delay",value="tab-4",style=tab_style, selected_style=tab_selected_style,children=[
-                    dcc.Graph(
-                        id='sliding_window_delay',
-                        figure=fig_3,
+                # dcc.Tab(label="Delay",value="tab-4",style=tab_style, selected_style=tab_selected_style,children=[
+                #     dcc.Graph(
+                #         id='sliding_window_delay',
+                #         figure=fig_3,
                             
                 
-                    )
-                ]),
+                #     )
+                # ]),
 
             # dcc.Tab(label="Buildings with outbreak",style={'padding': '0','line-height': "2"},children=[
                 
@@ -239,24 +247,25 @@ app.layout=html.Div(style={"backgroundColor":"black"},children=[
     #Right Column
     html.Div(children=[
 
-        html.Div(children=[
-            html.H3(style={"border":"2px black solid"},children="Additional information"),
-
-        ],className="left_column"),
-
+        
         dcc.Graph(
                     id='testing_data',
                     figure=fig_5,     
             
                 ),
 
-        
+        dcc.Graph(
+                    id="testing_data_2",
+                    figure=fig_6,
+        ),
 
         
 
-        html.Div(style={"border":"5px black solid"},children=[
-            html.P(last_updated), #replace with actual data
-        ],className="left_column"),
+        
+
+        # html.Div(style={"border":"5px black solid"},children=[
+        #     html.P(last_updated), #replace with actual data
+        # ],className="left_column"),
 
 
     ],className="four columns"),
