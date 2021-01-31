@@ -21,7 +21,7 @@
 
 ## Goals and the Next Step
 - Present information required for efficient and effective distribution of vaccinations in a centralized Dashboard.
-- The CoVicheck Dashboard displays _______________.
+- The CoVicheck Dashboard displays cases related to clusters in Buildings in Hong Kong, mode of testing performed and forecasting of the number of cases. It also displays the overall latest situation pertaining to confirmed cases, discharged cases possible cases and deaths.
 - Since the CoVicheck Dashboard uses daily data to support its distribution scheme, the vaccination is dispatched to the right people at the right time.
 - Create and Deploy Smart Contracts for controlling the distrbution of Vaccine to make sure that vaccines are not reselled and paid at the moment patient receives it.
 - Every aspect of supply chain can be replaced by the smart contract, making the entire system more efficient. Decentralized Apps that use Smart Contracts.
@@ -37,7 +37,7 @@
 - Python (numpy + pandas + requests : For data-preprocessing )
 - Plotly Dash (For building dashboard )
 - Amazon AWS Forecasts (For training using pre-processed data)
-- Amazon AWS __________ (For dashboard deployment)
+- Amazon AWS (Future: For dashboard deployment)
 
 
 
