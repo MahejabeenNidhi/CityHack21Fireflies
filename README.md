@@ -36,8 +36,10 @@
 ## Technology Stack Used
 - Python (numpy + pandas + requests : For data-preprocessing )
 - Plotly Dash (For building dashboard )
-- Amazon AWS __________ (For training using pre-processed data)
+- Amazon AWS Forecasts (For training using pre-processed data)
 - Amazon AWS __________ (For dashboard deployment)
+
+
 
 ## List of Contributors
 - Denny Thomas Varghese
