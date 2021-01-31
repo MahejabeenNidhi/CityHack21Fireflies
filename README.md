@@ -17,7 +17,7 @@
 
 ## Data Sources
 - [Centre for Health Protection, Hong Kong](https://www.chp.gov.hk/)
-- [Coronavirus Source Data, Our World in Data] (https://ourworldindata.org/coronavirus-source-data)
+- [Coronavirus Source Data, Our World in Data](https://ourworldindata.org/coronavirus-source-data)
 
 ## Goals and the Next Step
 - Present information required for efficient and effective distribution of vaccinations in a centralized Dashboard.
